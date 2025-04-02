@@ -23,11 +23,14 @@
 
 
 
-**My favorite langauge is Python  because of its simplicity**
+**My favorite langauge is Python  because of its simplicity**  
+
 '''
 print("hello")
-'''
-**Here is the same thing in c++**
+'''  
+
+**Here is the same thing in c++**  
+
 '''
 #include <iostream>
 using namespace std;
@@ -35,7 +38,8 @@ int main(){
     cout<<"hello"<<endl;
     return 0;
 }
-'''
+'''  
+
 
 **Here is my [Portfolio](https://parwizkhan.com)**
 ***As I said in my [Bio Section](#Bio-section) I have been coding since a very long time and I would be a great addition to your team***
