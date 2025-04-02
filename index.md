@@ -14,7 +14,7 @@
 
 ***I have real world and academic experience to be a successful AI Engineer***  
 
-***I believe I am good with <sub>people</sub> which gives me a slight advantage over<ins>other <sup>people</sup></ins> who are not good with people***  
+***I believe I am good with <sub>people</sub> which gives me a slight advantage over <ins>other <sup> people</sup></ins> who are not good with people***  
 
 
 *As I sometimes say:*  
@@ -44,7 +44,7 @@ int main(){
 
 
 **Here is my [Portfolio](https://parwizkhan.com)**
-***As I said in my [Bio Section](#Bio-section) I have been coding since a very long time and I would be a great addition to your team***
+***As I said in my [Bio Section](#bio-section) I have been coding since a very long time and I would be a great addition to your team***
 
 [Read more in README.md](README.md)
 
