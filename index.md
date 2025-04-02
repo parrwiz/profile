@@ -1,16 +1,23 @@
-#Parwiz Khan
-##AI Engineer
-###CS Student UCSD
+#Parwiz Khan  
+##AI Engineer  
+###CS Student UCSD  
 
-##Bio section
-**Coding since high school**
-*Started out with C++*
-~Because I know C++, I can learn other languages much faster~
-**I worked with _two startups_ as an intern**
-***I have real world and academic experience to be a successful AI Engineer***
-***I believe I am good with <sub>people</sub> which gives me a slight advantage over<ins>other <sup>people</sup></ins> who are not good with people***
+##Bio section  
+**Coding since high school**  
 
-*As I sometimes say:*
+*Started out with C++*  
+
+~Because I know C++, I can learn other languages much faster~  
+
+**I worked with _two startups_ as an intern**  
+
+***I have real world and academic experience to be a successful AI Engineer***  
+
+***I believe I am good with <sub>people</sub> which gives me a slight advantage over<ins>other <sup>people</sup></ins> who are not good with people***  
+
+
+*As I sometimes say:*  
+
 >Its better to be good with people than not to be.
 **My favorite langauge is Python  because of its simplicity**
 '''
