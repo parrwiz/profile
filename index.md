@@ -1,8 +1,9 @@
-#Parwiz Khan  
-##AI Engineer  
-###CS Student UCSD  
+# Parwiz Khan  
+## AI Engineer  
+### CS Student UCSD  
 
-##Bio section  
+## Bio section  
+
 **Coding since high school**  
 
 *Started out with C++*  
@@ -18,7 +19,10 @@
 
 *As I sometimes say:*  
 
->Its better to be good with people than not to be.
+>Its better to be good with people than not to be.  
+
+
+
 **My favorite langauge is Python  because of its simplicity**
 '''
 print("hello")
