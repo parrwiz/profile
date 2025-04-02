@@ -6,4 +6,4 @@ C++ hasn't been nice to me!
 C++ hasn't been nice to me!
 
 
-*** Here is the link to [Published Github Pages site](https://parrwiz.github.io/profile/)  ***
+ Here is the link to [Published Github Pages site](https://parrwiz.github.io/profile/) 
