@@ -25,20 +25,22 @@
 
 **My favorite langauge is Python  because of its simplicity**  
 
-'''
+```
 print("hello")
-'''  
+```  
+
 
 **Here is the same thing in c++**  
 
-'''
+```
 #include <iostream>
 using namespace std;
 int main(){
     cout<<"hello"<<endl;
     return 0;
 }
-'''  
+```  
+
 
 
 **Here is my [Portfolio](https://parwizkhan.com)**
